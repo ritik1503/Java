@@ -1,0 +1,24 @@
+JavaCollectionsExamples/
+│
+├── ListExamples/
+│   ├── ArrayListExample.java
+│   ├── LinkedListExample.java
+│   └── VectorExample.java
+│
+├── SetExamples/
+│   ├── HashSetExample.java
+│   ├── LinkedHashSetExample.java
+│   └── TreeSetExample.java
+│
+├── QueueExamples/
+│   ├── PriorityQueueExample.java
+│   └── ArrayDequeExample.java
+│
+├── MapExamples/
+│   ├── HashMapExample.java
+│   ├── LinkedHashMapExample.java
+│   └── TreeMapExample.java
+│
+├── StackExample.java
+├── IteratorExample.java
+└── CollectionsExample.java
